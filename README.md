@@ -39,6 +39,8 @@ $ git -v
 $ nodejs -v
 $ npm -v
 ```
+### Hapus folder sesi jangan lupa di Direktori /src/sesi
+
 Clone script
 ```bash
 $ git clone https://github.com/bolaxd/ballbotV2
